@@ -1,0 +1,10 @@
+ Historial de cambios
+### v0.1.9-463
+###### Cambios realizados:
+* Se corrige la funcion de restaurar los valores de fabrica que no estaba funcionando en la version anterior. 
+
+### v0.1.9-411
+
+
+###### Haga [clic aquí](https://github.com/surixArg/doorbell/tree/main/v0.1.9-463) para descargar esta versión.
+
