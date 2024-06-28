@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://surix.net/images/logo-scrolled.png" />
 </p>
-
-# <h1 align="center">Doorbell</h1>
+---
+ 
+# <h1 align="center">DOORBELL</h1>
 
 ---
 
