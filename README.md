@@ -12,6 +12,8 @@ Here you will find the update files for Doorbell products. Make sure to download
 
 - Latest version for IPAC_C19: [v0.1.9-529](https://github.com/surixArg/doorbell/tree/main/v0.1.9-529)
 
+- Latest version for IPAC_C19_2: [v0.1.9-552](https://github.com/surixArg/doorbell/tree/main/v0.1.9-552)
+
 ---
 
 Aquí encontrará los archivos de actualización para productos Doorbell. Asegúrese de descargar el software correspondiente a su plataforma.
@@ -19,3 +21,5 @@ Aquí encontrará los archivos de actualización para productos Doorbell. Asegú
 - Última versión para IPAC_19, IPAC_19_2, IPAC_20: [v0.1.9-480](https://github.com/surixArg/doorbell/tree/main/v0.1.9-480)
 
 - Última versión para IPAC_C19: [v0.1.9-529](https://github.com/surixArg/doorbell/tree/main/v0.1.9-529)
+
+- Última versión para IPAC_C19_2: [v0.1.9-552](https://github.com/surixArg/doorbell/tree/main/v0.1.9-552)
